@@ -1,0 +1,58 @@
+####################################################
+#  The Hamurabi Collection:                        #
+#  https://github.com/tajmone/hamurabi-collection  #
+####################################################
+
+
+## ===============
+## PureBasic files
+## ===============
+*.pb.cfg
+*.pbi.cfg
+*.pbp
+project.cfg
+
+
+## TMP Work Files
+#################
+___*
+___*.*
+
+# Links and URLs:
+*.lnk
+*.url
+
+## ==================
+## Binary Executables
+## ==================
+*.app
+*.dll
+*.dylib
+*.exe
+*.out
+*.so
+
+# ==============================================================================
+#                             COMMON IGNORE PATTERNS
+# ==============================================================================
+# Common ignore patterns for Windows, Linux and macOS.
+
+$RECYCLE.BIN/
+*.stackdump
+*~
+._*
+.AppleDouble
+.directory
+.DS_Store
+.fuse_hidden*
+.LSOverride
+.nfs*
+.Trash-*
+[Dd]esktop.ini
+ehthumbs.db
+ehthumbs_vista.db
+Icon
+Thumbs.db
+Thumbs.db:encryptable
+
+# EOF #
